@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsAPI", "CarsAPI\CarsAPI.csproj", "{EECE19BF-6B0E-4EEC-BE08-0D2FF721A24B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDataAccess", "CarDataAccess\CarDataAccess.csproj", "{FA6E710F-8508-4620-96DF-657DA236C9E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EECE19BF-6B0E-4EEC-BE08-0D2FF721A24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECE19BF-6B0E-4EEC-BE08-0D2FF721A24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECE19BF-6B0E-4EEC-BE08-0D2FF721A24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECE19BF-6B0E-4EEC-BE08-0D2FF721A24B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA6E710F-8508-4620-96DF-657DA236C9E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6E710F-8508-4620-96DF-657DA236C9E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6E710F-8508-4620-96DF-657DA236C9E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6E710F-8508-4620-96DF-657DA236C9E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C4F8EC0-16A4-40AD-9745-447484F3720F}
+	EndGlobalSection
+EndGlobal
